@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "653232880008",
+    "firebase_url": "https://avaliacao-individual-adc-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "avaliacao-individual-adc",
+    "storage_bucket": "avaliacao-individual-adc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653232880008:android:97769ae83e3dd42550a23d",
+        "android_client_info": {
+          "package_name": "com.example.avaliacao_individual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653232880008-9e9qjsvnjqbsoaul4refl2kgomaac1r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBjzJo8SqulAuFMIA6Yy76ZvGmsRIAmmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653232880008-9e9qjsvnjqbsoaul4refl2kgomaac1r7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
